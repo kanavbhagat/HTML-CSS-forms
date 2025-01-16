@@ -40,7 +40,7 @@ The project files include:
 
 | Form Layout (Desktop) | Validation States |
 |------------------------|-------------------|
-| ![Form Layout](screenshot1.png) | ![Validation States](/screenshot2.png) |
+| ![Form Layout](Screenshot1.png) | ![Validation States](/Screenshot2.png) |
 
 *(Replace `/path/to/screenshotX.png` with the actual paths to screenshots)*
 
