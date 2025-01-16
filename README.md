@@ -42,7 +42,6 @@ The project files include:
 |------------------------|-------------------|
 | ![Form Layout](Screenshot1.png) | ![Validation States](/Screenshot2.png) |
 
-*(Replace `/path/to/screenshotX.png` with the actual paths to screenshots)*
 
 ## How to Use
 
